@@ -1,0 +1,13 @@
+.waterdrops{
+background:
+radial-gradient(circle at 25% 100%, rgba(183,210,221,1) 7%, #dcd8af 8%, rgba(255,255,255,0) 9%) 90px 0,
+radial-gradient(circle at 25% 0%, rgba(224,244,252,1) 7%, #dcd8af 8%, rgba(255,255,255,0) 9%) 90px 0,
+radial-gradient(circle at 100% 50%, rgba(242,243,244,1) 8%, #dcd8af 9%, rgba(255,255,255,0) 10%) 90px 0,
+radial-gradient(circle at 0 50%, rgba(204,207,208,1) 8%, #dcd8af 9%, rgba(255,255,255,0) 10%) 90px 0,
+radial-gradient(circle at 25% 100%, rgba(224,244,252,1) 13%, #dcd8af 14%, rgba(255,255,255,0) 15%) 30px 0,
+radial-gradient(circle at 25% 0%, rgba(183,210,221,1) 13%, #dcd8af 14%, rgba(255,255,255,0) 15%) 30px 0,
+radial-gradient(circle at 100% 50%, rgba(204,207,208,1) 10%, #dcd8af 11%, rgba(255,255,255,0) 12%) 30px 0,
+radial-gradient(circle at 0 50%, rgba(242,243,244,1) 10%, #dcd8af 11%, rgba(255,255,255,0) 12%) 30px 0;
+background-size: 120px 60px;
+background-color: #fff;
+}
