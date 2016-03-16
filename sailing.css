@@ -1,0 +1,13 @@
+.boat{
+background: 
+linear-gradient(315deg, #fff 20%, transparent 20%)24px -2px,
+linear-gradient(45deg, #708090 16%, transparent 16%)25px -4px,
+linear-gradient(135deg, #3F556B 12.5%, transparent 12.5%)13px 0,
+linear-gradient(225deg, #3F556B 12.5%, transparent 12.5%)13px 0,
+linear-gradient(315deg, #3F556B 12.5%, transparent 12.5%)27px 12px,
+linear-gradient(45deg, #3F556B 12.5%, transparent 12.5%)27px 12px,
+linear-gradient(135deg, #3F556B 12.5%, transparent 12.5%)41px 0,
+linear-gradient(225deg, #3F556B 12.5%, transparent 12.5%)41px 0;
+background-size: 60px 40px ;
+background-color: #bbe1e0;
+}
